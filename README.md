@@ -1,1 +1,2 @@
 # challenge6
+This program analayzes the differend neighborhoods of San Fransisco in terms of rental income growth and sales prices per square foot during a 6-year time period. The data and analysis is visualized.
